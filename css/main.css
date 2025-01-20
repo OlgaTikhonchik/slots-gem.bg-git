@@ -123,6 +123,7 @@ article > h4,
 }
 
 .button-page {
+  color: #0B0C21;
   background: url(../images/button-page.png) no-repeat center center / contain;
 }
 a.button,
@@ -316,8 +317,8 @@ a.button-page:hover {
 }
 
 .header__country img {
-  width: 32px;
-  height: 32px;
+  width: 33px;
+  height: 24px;
   vertical-align: middle;
 }
 
@@ -1230,6 +1231,7 @@ li a:hover img.icon-default {
   align-items: center;
   justify-content: flex-end;
   min-height: 200px;
+  border-radius: 16px;
   padding: 20px;
 }
 .banner__logo {
